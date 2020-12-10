@@ -7,7 +7,8 @@
     
    ![image](https://user-images.githubusercontent.com/73635652/101713001-54c58380-3ac9-11eb-9c17-fe094877a137.png)
    
-    Log in your GitHub account by going to https://https://github.com/
+    Log in your [GitHub](https://https://github.com/) account
+   
    
    ![image](https://user-images.githubusercontent.com/73635652/101713472-4a57b980-3aca-11eb-8a4f-d457eb54b644.png)
     
