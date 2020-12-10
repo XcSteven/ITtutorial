@@ -3,11 +3,13 @@
 ## **I. Overview of Git and GitHub**
     
 ## **II. How to install Git and GitHub**
-    Go to https://git-scm.com/downloads to install Git
+    - Go to Git website to install
     
+   ![Git](https://git-scm.com/downloads)
+   
    ![image](https://user-images.githubusercontent.com/73635652/101713001-54c58380-3ac9-11eb-9c17-fe094877a137.png)
    
-    Log in your GitHub account
+    - Log in your GitHub account
     
    ![GitHub](https://https://github.com/)
    
